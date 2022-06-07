@@ -6,6 +6,10 @@ __pycache__/
 # CSV
 *.csv
 
+# Pytorch
+
+*.pth
+
 # TXT
 
 *.txt
