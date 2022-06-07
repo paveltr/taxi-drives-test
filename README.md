@@ -3,4 +3,4 @@ Dataset containing mobility traces of ~500 taxi cabs in San Francisco collected 
 
 
 
-![alt text](notebooks\export\Trips.png)
+![alt text](notebooks/export/Trips.png)
